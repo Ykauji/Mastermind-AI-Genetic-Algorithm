@@ -1,0 +1,5 @@
+(load "mastermind for students.lisp")
+(load "./mastermind-genetic/mastermind-genetic-individual.lisp")
+(load "./mastermind-genetic/mastermind-genetic-population.lisp")
+(load "./mastermind-genetic/mastermind-genetic-fitness-calculator.lisp")
+(load "./mastermind-genetic/mastermind-genetic-algorithm.lisp")
